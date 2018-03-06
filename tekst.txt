@@ -1,1 +1,1 @@
-Tak wyglądają dane po zapisie!
+colors,fs,stat-mode
